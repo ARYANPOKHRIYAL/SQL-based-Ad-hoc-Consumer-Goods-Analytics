@@ -1,6 +1,6 @@
 # SQL-Based Ad-hoc Consumer Goods Analytics
 
-![project_title_thumbnail]()
+![project_title_thumbnail](presentation/RPC4-OfficialThumbnail.png)
 
 **Codebasics Resume Project Challenge #4 | Consumer Goods Domain**
 
